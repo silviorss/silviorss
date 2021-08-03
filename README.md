@@ -22,6 +22,8 @@
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=silviorss&hide_border=true)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=silviorss)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Let's connect? 🤝
 
 <p align="left">
